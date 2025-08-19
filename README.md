@@ -47,7 +47,9 @@ While preparing for the **Databricks Data Engineer certification**, I wanted to 
 
 ### 4. Final Data for Analysis  
 - Curated tables in the **Presentation layer**.  
-- Connected to **Power BI** for reporting and business consumption.  
+- Connected to **Power BI** for reporting and business consumption.
+
+![Project Architecture](./overview.png)
 
 ---
 
